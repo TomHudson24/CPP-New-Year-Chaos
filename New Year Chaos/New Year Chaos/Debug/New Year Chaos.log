@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\New Year Chaos\New Year Chaos\main.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+  New Year Chaos.vcxproj -> C:\Users\Tom\source\repos\New Year Chaos\Debug\New Year Chaos.exe
